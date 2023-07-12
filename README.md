@@ -1,3 +1,1 @@
-// under construction
-
-Repository for the data space and tools developed in the frame of the Horizon Europe project BATMACHINE.
+Repository to manage the public information on the organization BATMACHINE
